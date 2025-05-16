@@ -3,8 +3,6 @@
     <h2 align="center">Welcome to <code>youtube-related</code>【ツ】</h2>
 </p>
 
----
-
 ## Description
 
 🎬 This repository contains code, documentation and other content related to videos I publish on YouTube.
