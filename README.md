@@ -6,7 +6,7 @@
 
 💡 Table in descending chronological order (newest video first).
 
-| ID          | Title                                                | Code link                                  | Sub title                                               | Video link                            |
+| ID          | Title                                                | Code link                                  | Subtitle                                                | Video link                            |
 | ---         | ---                                                  | ---                                        | ---                                                     | ---                                   |
 | 20250515035 | Liste in sortierte Tabelle umwandeln (category-sort) | [Code](./content/20250515035/src/main.au3) | 1D Liste zu 2D Tabelle, sortierte Daten (category-sort) | [Video](https://youtu.be/KkmF1Zr1iKs) |
 | 20240215011 | Unit Testing in AutoIt, Teil 2                       | [Code](./content/20240215011/README.md)    | -                                                       | [Video](https://youtu.be/zvxIpY-ZlLA) |
