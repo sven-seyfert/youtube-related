@@ -3,4 +3,4 @@
 *.md linguist-detectable=true
 
 # Exclude AutoIt files from language statistics
-content/**/.au3 linguist-vendored
+content/**/*.au3 linguist-vendored
